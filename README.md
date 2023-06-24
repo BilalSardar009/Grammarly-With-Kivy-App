@@ -16,13 +16,17 @@ Before running the app, ensure that you have the following dependencies installe
 ## Installation
 
 1. Clone the repository:version. The corrected sentence is then displayed in the app.
-git clone https://github.com/username/repository.git
+git clone https://github.com/username/repository.git](https://github.com/BilalSardar009/Grammarly-With-Kivy-App.git
 
 
 2. Install the required dependencies using pip:
 
 pip install kivy kivymd matplotlib numpy gingerit
 
+## Usage
+
+To run the app, execute the following command:
+python grammarly.py
 
 Upon launching the app, you will see a graphical interface with the following elements:
 
