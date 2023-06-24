@@ -1,0 +1,5 @@
+gingerit==0.8.2
+Kivy==2.1.0
+kivymd==0.104.2
+matplotlib==3.5.2
+numpy==1.22.3
